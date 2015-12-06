@@ -1,0 +1,15 @@
+---
+layout: post
+title: NW.js(node-webkit) on PiterJS#6
+---
+<img src="/images/fulls/02-nwjs.jpg" class="fit image"> 28 ноября 2015 года в Санкт-Петербурге прошел очередной IT Global MeetUp #6 [Piter United](http://piter-united.ru). На котором в секции PiterJS я выступил с докладом "NW.js".
+
+Спасибо всем слушателям за конструктивные вопросы и приятную атмосферу.
+
+### Материалы
+1. [Слайды](http://mike1pol.github.io/nwjs-piterjs6)
+1. [NW.js](http://nwjs.io)
+1. [nw-builder](https://github.com/nwjs/nw-builder)
+1. [grunt-nw-builder](https://github.com/nwjs/grunt-nw-builder)
+1. [nw-updater](https://github.com/guerrerocarlos/nw-updater)
+
